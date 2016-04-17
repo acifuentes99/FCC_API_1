@@ -7,6 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "acifuentes99",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinga99/FCC_API_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinga99/FCC_API_1/issues"
+  },
+  "homepage": "https://github.com/dinga99/FCC_API_1#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }

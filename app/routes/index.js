@@ -1,8 +1,8 @@
 //'use strict'
 
 var path = process.cwd();
-var dbFunctions = require(path + '/app/controllers/dbFunctions.server.js');
-var Demos = require(path + '/app/models/demos.js');
+//var dbFunctions = require(path + '/app/controllers/dbFunctions.server.js');
+//var Demos = require(path + '/app/models/demos.js');
 
 
 module.exports = function (app) {
